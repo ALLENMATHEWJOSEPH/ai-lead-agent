@@ -1,3 +1,8 @@
+import json
+
+# Load configuration settings
+with open("config.json", "r") as f:
+    config = json.load(f)
 # app.py
 import streamlit as st
 from scraper import scrape_leads
