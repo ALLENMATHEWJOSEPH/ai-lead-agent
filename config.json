@@ -1,1 +1,9 @@
+{
+  "default_industry": "Technology",
+  "default_location": "Canada",
+  "default_funding": "SR&ED",
+  "min_leads": 20,
+  "search_engine_url": "https://www.bing.com/search?q=",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
 
